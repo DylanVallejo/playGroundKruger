@@ -1,9 +1,9 @@
-import Dogs from "../Dogs"
+// import Dogs from "../Dogs"
 
 const Contact = () =>{
     return(
         <div>
-            <Dogs/>
+            {/* <Dogs/> */}
 
         </div>
     )

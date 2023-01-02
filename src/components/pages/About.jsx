@@ -1,12 +1,12 @@
 
 // import {  useNavigate } from "react-router-dom";
-import Main from "../Main"
+// import Main from "../Main"
 
 const About = ( props) => {    
 
     return(
         <div>
-            <Main {...props} />
+            {/* <Main {...props} /> */}
         </div>
     )
     }
